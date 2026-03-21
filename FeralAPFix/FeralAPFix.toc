@@ -1,6 +1,0 @@
-## Interface: 30300
-## Title: FeralAPFix
-## Notes: Guards feral-attack.lua against nil item links in tooltip hooks
-## LoadOnDemand: 0
-
-FeralAPFix.lua
